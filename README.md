@@ -1,3 +1,5 @@
+# Functional Github with Smart Contract
+The main repository is in: [POP](https://github.com/HuoHuanjia/PoP.git)
 # Campaign landing page
 
 *Automatically synced with your [v0.app](https://v0.app) deployments*
