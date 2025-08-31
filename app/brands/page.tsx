@@ -958,7 +958,11 @@ export default function BrandsPage() {
         <div className="container mx-auto max-w-7xl">
           <nav className="flex items-center justify-between">
             <Link href="/" className="flex items-center space-x-1">
-              <span className="text-2xl font-bold text-white">POP</span>
+              <img
+                src="https://hebbkx1anhila5yf.public.blob.vercel-storage.com/ChatGPT%20Image%2031%20ago%202025%2C%2001_45_11-7hPKL9Fv4lBmDfedLDcYjMJYZMBkOG.png"
+                alt="POP - Proof of Talent Hub"
+                className="h-48 w-auto"
+              />
             </Link>
             <div className="hidden md:flex items-center space-x-12">
               <Link href="/brands" className="text-orange-300 hover:text-white transition-colors font-medium">
